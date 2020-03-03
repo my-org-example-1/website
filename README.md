@@ -4,6 +4,4 @@ This is my website
 
 New line for change
 
-new line
-
-more tweaks
+deleted 2 lines and replaced with this line
